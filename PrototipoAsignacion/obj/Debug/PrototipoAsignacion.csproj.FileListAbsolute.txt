@@ -1,0 +1,10 @@
+C:\Users\KEVIN\Documents\PrototipoAsignacion\PrototipoAsignacion\bin\Debug\PrototipoAsignacion.exe.config
+C:\Users\KEVIN\Documents\PrototipoAsignacion\PrototipoAsignacion\bin\Debug\PrototipoAsignacion.exe
+C:\Users\KEVIN\Documents\PrototipoAsignacion\PrototipoAsignacion\bin\Debug\PrototipoAsignacion.pdb
+C:\Users\KEVIN\Documents\PrototipoAsignacion\PrototipoAsignacion\obj\Debug\PrototipoAsignacion.csprojResolveAssemblyReference.cache
+C:\Users\KEVIN\Documents\PrototipoAsignacion\PrototipoAsignacion\obj\Debug\PrototipoAsignacion.Form1.resources
+C:\Users\KEVIN\Documents\PrototipoAsignacion\PrototipoAsignacion\obj\Debug\PrototipoAsignacion.Properties.Resources.resources
+C:\Users\KEVIN\Documents\PrototipoAsignacion\PrototipoAsignacion\obj\Debug\PrototipoAsignacion.csproj.GenerateResource.Cache
+C:\Users\KEVIN\Documents\PrototipoAsignacion\PrototipoAsignacion\obj\Debug\PrototipoAsignacion.exe
+C:\Users\KEVIN\Documents\PrototipoAsignacion\PrototipoAsignacion\obj\Debug\PrototipoAsignacion.pdb
+C:\Users\KEVIN\Documents\PrototipoAsignacion\PrototipoAsignacion\obj\Debug\PrototipoAsignacion.Form2.resources
